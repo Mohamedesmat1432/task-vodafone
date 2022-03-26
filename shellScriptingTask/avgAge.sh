@@ -1,4 +1,3 @@
-
 echo "hello $(whoami)"
 echo "running this script in $(date +%F)"
 DATE=$(date +%d-%m-%Y)
