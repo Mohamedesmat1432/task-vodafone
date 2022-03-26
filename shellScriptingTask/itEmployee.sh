@@ -1,13 +1,4 @@
-#!/bin/bash
-#title           :countEmployee.sh
-#description     :This script to read csv file.
-#author		 :Hany Salama
-#date            :20190315
-#version         :0.1
-#usage		 :bash itEmployee.sh file.csv
-#tasks		 :get number of employees in IT department and write current date and
-# the result into ‘IT_employess_count.txt’ file under company_info directory.
-#=========================================================================
+
 echo "hello $(whoami)"
 echo "running this script in $(date +%F)"
 DATE=$(date +%d-%m-%Y)

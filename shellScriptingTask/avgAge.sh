@@ -1,13 +1,4 @@
-#!/bin/bash
-#title           :avgAge.sh
-#description     :This script to read csv file.
-#author		 :Hany Salama
-#date            :20190315
-#version         :0.1
-#usage		 :bash avgAge.sh file.csv
-#tasks		 :get average employees age and write current date and the result into ‘employess_age_average.txt’
-# file under company_info directory.
-#=========================================================================
+
 echo "hello $(whoami)"
 echo "running this script in $(date +%F)"
 DATE=$(date +%d-%m-%Y)

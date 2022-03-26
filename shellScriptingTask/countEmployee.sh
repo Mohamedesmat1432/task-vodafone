@@ -1,11 +1,4 @@
-#!/bin/bash
-#title           :countEmployee.sh
-#description     :This script to read csv file.
-#author		 :Hany Salama
-#date            :20190315
-#version         :0.1
-#usage		 :bash countEmployee.sh file.csv
-#=========================================================================
+
 echo "hello $(whoami)"
 echo "running this script in $(date +%F)"
 

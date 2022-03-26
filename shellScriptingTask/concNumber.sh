@@ -1,14 +1,4 @@
-#!/bin/bash
-#title           :avgAge.sh
-#description     :This script to read csv file.
-#author		 :Hany Salama
-#date            :20190315
-#version         :0.1
-#usage		 :bash avgAge.sh file.csv
-#tasks		 :Write a bash script to combine both CountryCode and PhoneNumber with
-# a - and add a + before country code like +countrycode-phonenumber and remove
-# country codes from the csv file.
-#=========================================================================
+
 echo "hello $(whoami)"
 echo "running this script in $(date +%F)"
 FILE=$1
